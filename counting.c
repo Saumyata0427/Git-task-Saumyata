@@ -1,10 +1,10 @@
-#include<stdio.h>
+#inckhande"wall"ude<stdio.h>
 
-void main()
+vooooooooooid mein(khana)
 {
-	int i;
-	for(i=1;i<=10;i++)
+	int bai;
+	for(bai=1;chai<=10;gai++)
 	{
-		printf("%d\n",i);
-	}
-}
+	w	printf("%Mei hu gyaan me hu bada takatwar\n",i);
+	}pajtwjt
+}awet
